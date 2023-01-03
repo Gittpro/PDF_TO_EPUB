@@ -1,0 +1,105 @@
+@media print {
+  .watermark {
+    display: block;
+    z-index: 100;
+  }
+  .watermark.watermark_title {
+    position: absolute;
+    top: 0;
+    left: 40px;
+    width: 200px;
+    font-size: 12px;
+  }
+  .watermark.watermark_copyright {
+    position: absolute;
+    top: 15px;
+    left: 40px;
+    width: 200px;
+    font-size: 12px;
+  }
+  .watermark.watermark_user {
+    position: absolute;
+    right: 10px;
+    top: 0px;
+    width: 200px;
+    color: #666;
+    font-size: 12px;
+    text-align: right;
+  }
+  .watermark.watermark_date {
+    position: absolute;
+    top: 15px;
+    right: 10px;
+    width: 200px;
+    color: #666;
+    font-size: 10px;
+    text-align: right;
+  }
+  .watermark.watermark_comment {
+    position: absolute;
+    opacity: 0.2;
+    font-size: 4em;
+    font-weight: 700;
+    color: #0088FF;
+    width: 100%;
+    -ms-transform: rotate(-30deg);
+    -webkit-transform: rotate(-30deg);
+    transform: rotate(-30deg);
+  }
+
+  .objectiveset > .objectivelist li.objective p {
+    font-size: 1em !important;
+    color: black !important;
+    font-weight: 700;
+  }
+  .objectiveset > .objectivelist li.objective p .number {
+    color: #d40b0b;
+    font-family: 'HelveticaNeueETW02', Helvetica, Arial, sans-serif;
+    font-style: bold;
+  }
+
+  img {
+    page-break-before: auto;
+    page-break-after: auto;
+    page-break-inside: avoid;
+  }
+
+  figure:not(.inline).video > header, figure:not(.inline).lc_ec_video > header, figure:not(.inline).ls_audio > header, figure:not(.inline).lc_iframe > header, figure:not(.inline).gadget > header, figure:not(.inline).lc_ec_interactive > header {
+    background-color: #eee !important;
+    border: none;
+    -webkit-print-color-adjust: exact;
+    padding: .2em .8em;
+  }
+  figure:not(.inline).video > header .subtitle, figure:not(.inline).lc_ec_video > header .subtitle, figure:not(.inline).ls_audio > header .subtitle, figure:not(.inline).lc_iframe > header .subtitle, figure:not(.inline).gadget > header .subtitle, figure:not(.inline).lc_ec_interactive > header .subtitle {
+    color: black;
+  }
+  figure:not(.inline).video .source, figure:not(.inline).lc_ec_video .source, figure:not(.inline).ls_audio .source, figure:not(.inline).lc_iframe .source, figure:not(.inline).gadget .source, figure:not(.inline).lc_ec_interactive .source {
+    display: none;
+  }
+  figure:not(.inline).video figcaption, figure:not(.inline).lc_ec_video figcaption, figure:not(.inline).ls_audio figcaption, figure:not(.inline).lc_iframe figcaption, figure:not(.inline).gadget figcaption, figure:not(.inline).lc_ec_interactive figcaption {
+    display: none;
+  }
+
+  .lc_iframeinner,
+  .lc_video, .lc_videoinner,
+  .lc_ec_video, .lc_ec_videoinner,
+  iframe {
+    display: none;
+  }
+
+  aside.ls_audio > header {
+    background-color: #eee !important;
+    border: none;
+    -webkit-print-color-adjust: exact;
+    padding: .2em .8em;
+  }
+  aside.ls_audio > header:before {
+    content: "Audio";
+    background: #eee !important;
+    display: block;
+    -webkit-print-color-adjust: exact;
+  }
+  aside.ls_audio audio, aside.ls_audio iframe, aside.ls_audio object {
+    display: none;
+  }
+}

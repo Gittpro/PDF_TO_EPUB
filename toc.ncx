@@ -1,0 +1,2008 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="urn:uuid:6089db7d-eb5a-495b-9045-e372d8f51fdc" content="9780134081403" />
+    <meta name="dtb:depth" content="2" />
+    <meta name="dtb:totalPageCount" content="1" />
+    <meta name="dtb:maxPageNumber" content="1" />
+  </head>
+  <docTitle>
+    <text>Student-Centered Mathematics Series, 3e</text>
+  </docTitle>
+  <navMap>
+<navPoint id="bb1" playOrder="1"><navLabel>
+<text>Cover</text>
+</navLabel>
+<content src="xhtml/cover.xhtml#coverpage"/>
+</navPoint>
+
+<navPoint id="bb2" playOrder="2"><navLabel>
+<text>Title Page</text>
+</navLabel>
+<content src="xhtml/frontmatter00.xhtml"/>
+</navPoint>
+
+<navPoint id="bb3" playOrder="3"><navLabel>
+<text>Copyright</text>
+</navLabel>
+<content src="xhtml/frontmatter01.xhtml"/>
+</navPoint>
+
+<navPoint id="bb4" playOrder="4"><navLabel>
+<text>About the Author</text>
+</navLabel>
+<content src="xhtml/frontmatter02.xhtml"/>
+</navPoint>
+
+<navPoint id="bb5" playOrder="5"><navLabel>
+<text>Brief Contents</text>
+</navLabel>
+<content src="xhtml/frontmatter03.xhtml"/>
+</navPoint>
+
+<navPoint id="bb6" playOrder="6"><navLabel>
+<text>Expanded Table of Contents</text>
+</navLabel>
+<content src="xhtml/frontmatter04.xhtml"/>
+</navPoint>
+
+<navPoint id="bb7" playOrder="7"><navLabel>
+<text>Preface</text>
+</navLabel>
+<content src="xhtml/frontmatter05.xhtml"/>
+
+<navPoint id="bb8" playOrder="8"><navLabel>
+<text>What Are Our Goals for the Student-Centered Mathematics Series?</text>
+</navLabel>
+<content src="xhtml/frontmatter05a.xhtml"/>
+</navPoint>
+
+<navPoint id="bb9" playOrder="9"><navLabel>
+<text>What’s New to the Third Edition of the Student-Centered Mathematics Series?</text>
+</navLabel>
+<content src="xhtml/frontmatter05b.xhtml"/>
+</navPoint>
+
+<navPoint id="bb10" playOrder="10"><navLabel>
+<text>What Are the New eText Features?</text>
+</navLabel>
+<content src="xhtml/frontmatter05c.xhtml"/>
+</navPoint>
+
+<navPoint id="bb11" playOrder="11"><navLabel>
+<text>What’s New in Part 1?</text>
+</navLabel>
+<content src="xhtml/frontmatter05d.xhtml"/>
+</navPoint>
+
+<navPoint id="bb12" playOrder="12"><navLabel>
+<text>What’s New to Part 2?</text>
+</navLabel>
+<content src="xhtml/frontmatter05e.xhtml"/>
+</navPoint>
+
+<navPoint id="bb13" playOrder="13"><navLabel>
+<text>What Special Features Appear in Pearson’s Student-Centered Mathematics Series?</text>
+</navLabel>
+<content src="xhtml/frontmatter05f.xhtml"/>
+</navPoint>
+
+<navPoint id="bb14" playOrder="14"><navLabel>
+<text>Acknowledgments</text>
+</navLabel>
+<content src="xhtml/frontmatter05h.xhtml"/>
+</navPoint>
+</navPoint>
+
+<navPoint id="bb15" playOrder="15"><navLabel>
+<text>Part 1: Establishing a Student-Centered Environment</text>
+</navLabel>
+<content src="xhtml/part01.xhtml"/>
+</navPoint>
+
+<navPoint id="bb16" playOrder="16"><navLabel>
+<text>Chapter 1 Setting a Vision for Learning High-Quality Mathematics</text>
+</navLabel>
+<content src="xhtml/chapter0001_00.xhtml"/>
+
+<navPoint id="bb17" playOrder="17"><navLabel>
+<text>Understanding and Doing Mathematics</text>
+</navLabel>
+<content src="xhtml/chapter0001_01.xhtml"/>
+</navPoint>
+<navPoint id="bb18" playOrder="18"><navLabel>
+<text>How Do Children Learn?</text>
+</navLabel>
+<content src="xhtml/chapter0001_02.xhtml"/>
+
+<navPoint id="bb19" playOrder="19"><navLabel>
+<text>Constructivism</text>
+</navLabel>
+<content src="xhtml/chapter0001_02.xhtml#ch01-head-01"/>
+</navPoint>
+
+<navPoint id="bb20" playOrder="20"><navLabel>
+<text>Sociocultural Theory</text>
+</navLabel>
+<content src="xhtml/chapter0001_03.xhtml#ch01-head-02"/>
+</navPoint>
+</navPoint>
+<navPoint id="bb21" playOrder="21"><navLabel>
+<text>Teaching for Understanding</text>
+</navLabel>
+<content src="xhtml/chapter0001_04.xhtml"/>
+
+<navPoint id="bb22" playOrder="22"><navLabel>
+<text>Teaching for Relational Understanding</text>
+</navLabel>
+<content src="xhtml/chapter0001_04.xhtml#ch01-head-03"/>
+</navPoint>
+<navPoint id="bb23" playOrder="23"><navLabel>
+<text>Teaching for Instrumental Understanding</text>
+</navLabel>
+<content src="xhtml/chapter0001_05.xhtml#ch01-head-04"/>
+</navPoint>
+<navPoint id="bb24" playOrder="24"><navLabel>
+<text>The Importance of Children’s Ideas</text>
+</navLabel>
+<content src="xhtml/chapter0001_06.xhtml#ch01-head-05"/>
+</navPoint>
+</navPoint>
+<navPoint id="bb25" playOrder="25"><navLabel>
+<text>Mathematics Classrooms That Promote Understanding</text>
+</navLabel>
+<content src="xhtml/chapter0001_07.xhtml"/>
+</navPoint>
+</navPoint>
+<navPoint id="bb26" playOrder="26"><navLabel>
+<text>Chapter 2 Teaching Mathematics through Problem Solving</text>
+</navLabel>
+<content src="xhtml/chapter0002_00.xhtml"/>
+
+<navPoint id="bb27" playOrder="27"><navLabel>
+<text>Teaching through Problem Solving: An Upside-Down Approach</text>
+</navLabel>
+<content src="xhtml/chapter0002_01.xhtml"/>
+</navPoint>
+<navPoint id="bb28" playOrder="28"><navLabel>
+<text>Mathematics Teaching Practices for Teaching through Problem Solving</text>
+</navLabel>
+<content src="xhtml/chapter0002_02.xhtml"/>
+</navPoint>
+<navPoint id="bb29" playOrder="29"><navLabel>
+<text>Using Worthwhile Tasks</text>
+</navLabel>
+<content src="xhtml/chapter0002_03.xhtml"/>
+
+<navPoint id="bb30" playOrder="30"><navLabel>
+<text>High Levels of Cognitive Demand</text>
+</navLabel>
+<content src="xhtml/chapter0002_03.xhtml#ch02-head-01"/>
+</navPoint>
+<navPoint id="bb31" playOrder="31"><navLabel>
+<text>Multiple Entry and Exit Points</text>
+</navLabel>
+<content src="xhtml/chapter0002_03a.xhtml#ch02-head-02"/>
+</navPoint>
+<navPoint id="bb32" playOrder="32"><navLabel>
+<text>Relevant and Well-Designed Contexts</text>
+</navLabel>
+<content src="xhtml/chapter0002_04.xhtml#ch02-head-03"/>
+</navPoint>
+<navPoint id="bb33" playOrder="33"><navLabel>
+<text>Evaluating and Adapting Tasks</text>
+</navLabel>
+<content src="xhtml/chapter0002_05.xhtml#ch02-head-04"/>
+</navPoint>
+<navPoint id="bb34" playOrder="34"><navLabel>
+<text>What Do I Do When a Task Doesn’t Work?</text>
+</navLabel>
+<content src="xhtml/chapter0002_06.xhtml#ch02-head-05"/>
+</navPoint>
+</navPoint>
+<navPoint id="bb35" playOrder="35"><navLabel>
+<text>Orchestrating Classroom Discourse</text>
+</navLabel>
+<content src="xhtml/chapter0002_07.xhtml"/>
+
+<navPoint id="bb36" playOrder="36"><navLabel>
+<text>Classroom Discussions</text>
+</navLabel>
+<content src="xhtml/chapter0002_07.xhtml#ch02-head-06"/>
+</navPoint>
+<navPoint id="bb37" playOrder="37"><navLabel>
+<text>Aspects of Questioning</text>
+</navLabel>
+<content src="xhtml/chapter0002_08.xhtml#ch02-head-07"/>
+</navPoint>
+<navPoint id="bb38" playOrder="38"><navLabel>
+<text>How Much to Tell and Not to Tell</text>
+</navLabel>
+<content src="xhtml/chapter0002_09.xhtml#ch02-head-08"/>
+</navPoint>
+<navPoint id="bb39" playOrder="39"><navLabel>
+<text>Leveraging Mistakes and Misconceptions to Enhance Learning</text>
+</navLabel>
+<content src="xhtml/chapter0002_10.xhtml#ch02-head-09"/>
+</navPoint>
+</navPoint>
+<navPoint id="bb40" playOrder="40"><navLabel>
+<text>Representations: Tools for Problem Solving, Reasoning, and Communication</text>
+</navLabel>
+<content src="xhtml/chapter0002_11.xhtml"/>
+
+<navPoint id="bb41" playOrder="41"><navLabel>
+<text>Build a Web of Representations</text>
+</navLabel>
+<content src="xhtml/chapter0002_11.xhtml#ch02-head-10"/>
+</navPoint>
+<navPoint id="bb42" playOrder="42"><navLabel>
+<text>Explore with Tools</text>
+</navLabel>
+<content src="xhtml/chapter0002_12.xhtml#ch02-head-11"/>
+</navPoint>
+<navPoint id="bb43" playOrder="43"><navLabel>
+<text>Tips for Using Representations in the Classroom</text>
+</navLabel>
+<content src="xhtml/chapter0002_13.xhtml#ch02-head-12"/>
+</navPoint>
+</navPoint>
+<navPoint id="bb44" playOrder="44"><navLabel>
+<text>Lessons in the Problem-Based Classroom</text>
+</navLabel>
+<content src="xhtml/chapter0002_14.xhtml"/>
+
+<navPoint id="bb45" playOrder="45"><navLabel>
+<text>A Three-Phase Lesson Format</text>
+</navLabel>
+<content src="xhtml/chapter0002_14.xhtml#ch02-head-13"/>
+</navPoint>
+<navPoint id="bb46" playOrder="46"><navLabel>
+<text>Variations of the Three-Phase Lesson</text>
+</navLabel>
+<content src="xhtml/chapter0002_15.xhtml#ch02-head-14"/>
+</navPoint>
+</navPoint>
+<navPoint id="bb47" playOrder="47"><navLabel>
+<text>Life-Long Learning: An Invitation to Learn and Grow</text>
+</navLabel>
+<content src="xhtml/chapter0002_16.xhtml"/>
+</navPoint>
+</navPoint>
+<navPoint id="bb48" playOrder="48"><navLabel>
+<text>Chapter 3 Creating Assessments for Learning</text>
+</navLabel>
+<content src="xhtml/chapter0003_00.xhtml"/>
+
+<navPoint id="bb49" playOrder="49"><navLabel>
+<text>Assessment That Informs Instruction</text>
+</navLabel>
+<content src="xhtml/chapter0003_00.xhtml#ch03-head02-01"/>
+</navPoint>
+<navPoint id="bb50" playOrder="50"><navLabel>
+<text>Observations</text>
+</navLabel>
+<content src="xhtml/chapter0003_01.xhtml"/>
+
+<navPoint id="bb51" playOrder="51"><navLabel>
+<text>Anecdotal Notes</text>
+</navLabel>
+<content src="xhtml/chapter0003_01.xhtml#ch03-head-01"/>
+</navPoint>
+<navPoint id="bb52" playOrder="52"><navLabel>
+<text>Checklists</text>
+</navLabel>
+<content src="xhtml/chapter0003_02.xhtml#ch03-head-02"/>
+</navPoint>
+</navPoint>
+<navPoint id="bb53" playOrder="53"><navLabel>
+<text>Questions</text>
+</navLabel>
+<content src="xhtml/chapter0003_03.xhtml"/>
+</navPoint>
+<navPoint id="bb54" playOrder="54"><navLabel>
+<text>Interviews</text>
+</navLabel>
+<content src="xhtml/chapter0003_04.xhtml"/>
+</navPoint>
+<navPoint id="bb55" playOrder="55"><navLabel>
+<text>Tasks</text>
+</navLabel>
+<content src="xhtml/chapter0003_05.xhtml"/>
+
+<navPoint id="bb56" playOrder="56"><navLabel>
+<text>Problem-Based Tasks</text>
+</navLabel>
+<content src="xhtml/chapter0003_05.xhtml#ch03-head-03"/>
+</navPoint>
+<navPoint id="bb57" playOrder="57"><navLabel>
+<text>Translation Tasks</text>
+</navLabel>
+<content src="xhtml/chapter0003_06.xhtml#ch03-head-04"/>
+</navPoint>
+<navPoint id="bb58" playOrder="58"><navLabel>
+<text>Writing</text>
+</navLabel>
+<content src="xhtml/chapter0003_07.xhtml#ch03-head-05"/>
+</navPoint>
+</navPoint>
+<navPoint id="bb59" playOrder="59"><navLabel>
+<text>Children’s Self-Assessment and Reflection</text>
+</navLabel>
+<content src="xhtml/chapter0003_08.xhtml"/>
+</navPoint>
+<navPoint id="bb60" playOrder="60"><navLabel>
+<text>Rubrics and Their Uses</text>
+</navLabel>
+<content src="xhtml/chapter0003_09.xhtml"/>
+
+<navPoint id="bb61" playOrder="61"><navLabel>
+<text>Generic Rubrics</text>
+</navLabel>
+<content src="xhtml/chapter0003_09.xhtml#ch03-head-06"/>
+</navPoint>
+<navPoint id="bb62" playOrder="62"><navLabel>
+<text>Task-Specific Rubrics</text>
+</navLabel>
+<content src="xhtml/chapter0003_10.xhtml#ch03-head-07"/>
+</navPoint>
+</navPoint>
+</navPoint>
+<navPoint id="bb63" playOrder="63"><navLabel>
+<text>Chapter 4 Differentiating Instruction</text>
+</navLabel>
+<content src="xhtml/chapter0004_00.xhtml"/>
+
+<navPoint id="bb64" playOrder="64"><navLabel>
+<text>Differentiation and Teaching Mathematics through Problem Solving</text>
+</navLabel>
+<content src="xhtml/chapter0004_01.xhtml"/>
+</navPoint>
+<navPoint id="bb65" playOrder="65"><navLabel>
+<text>The Nuts and Bolts of Differentiating Instruction</text>
+</navLabel>
+<content src="xhtml/chapter0004_02.xhtml"/>
+
+<navPoint id="bb66" playOrder="66"><navLabel>
+<text>Planning Meaningful Content, Grounded in Authenticity</text>
+</navLabel>
+<content src="xhtml/chapter0004_02.xhtml#ch04-head-01"/>
+</navPoint>
+<navPoint id="bb67" playOrder="67"><navLabel>
+<text>Recognizing Children as Individuals</text>
+</navLabel>
+<content src="xhtml/chapter0004_03.xhtml#ch04-head-02"/>
+</navPoint>
+<navPoint id="bb68" playOrder="68"><navLabel>
+<text>Connecting Content and Learners</text>
+</navLabel>
+<content src="xhtml/chapter0004_04.xhtml#ch04-head-03"/>
+</navPoint>
+</navPoint>
+<navPoint id="bb69" playOrder="69"><navLabel>
+<text>Differentiated Tasks for Whole-Class Instruction</text>
+</navLabel>
+<content src="xhtml/chapter0004_05.xhtml"/>
+
+<navPoint id="bb70" playOrder="70"><navLabel>
+<text>Parallel Tasks</text>
+</navLabel>
+<content src="xhtml/chapter0004_05.xhtml#ch04-head-04"/>
+</navPoint>
+<navPoint id="bb71" playOrder="71"><navLabel>
+<text>Open Questions</text>
+</navLabel>
+<content src="xhtml/chapter0004_06.xhtml#ch04-head-05"/>
+</navPoint>
+</navPoint>
+<navPoint id="bb72" playOrder="72"><navLabel>
+<text>Tiered Lessons</text>
+</navLabel>
+<content src="xhtml/chapter0004_07.xhtml"/>
+</navPoint>
+<navPoint id="bb73" playOrder="73"><navLabel>
+<text>Flexible Grouping</text>
+</navLabel>
+<content src="xhtml/chapter0004_08.xhtml"/>
+</navPoint>
+</navPoint>
+<navPoint id="bb74" playOrder="74"><navLabel>
+<text>Chapter 5 Teaching Culturally and Linguistically Diverse Children</text>
+</navLabel>
+<content src="xhtml/chapter0005_00.xhtml"/>
+
+<navPoint id="bb75" playOrder="75"><navLabel>
+<text>Culturally and Linguistically Diverse Children</text>
+</navLabel>
+<content src="xhtml/chapter0005_00.xhtml#ch05-h2-01"/>
+
+<navPoint id="bb76" playOrder="76"><navLabel>
+<text>Funds of Knowledge</text>
+</navLabel>
+<content src="xhtml/chapter0005_00.xhtml#ch05-head-01"/>
+</navPoint>
+<navPoint id="bb77" playOrder="77"><navLabel>
+<text>Mathematics as a Language </text>
+</navLabel>
+<content src="xhtml/chapter0005_01.xhtml#ch05-head-02"/>
+</navPoint>
+</navPoint>
+<navPoint id="bb78" playOrder="78"><navLabel>
+<text>Culturally Responsive Mathematics Instruction </text>
+</navLabel>
+<content src="xhtml/chapter0005_02.xhtml"/>
+
+<navPoint id="bb79" playOrder="79"><navLabel>
+<text>Communicate High Expectations </text>
+</navLabel>
+<content src="xhtml/chapter0005_02.xhtml#ch05-head-03"/>
+</navPoint>
+<navPoint id="bb80" playOrder="80"><navLabel>
+<text>Make Content Relevant </text>
+</navLabel>
+<content src="xhtml/chapter0005_03.xhtml#ch05-head-04"/>
+</navPoint>
+<navPoint id="bb81" playOrder="81"><navLabel>
+<text>Attend to Children’s Mathematical Identities </text>
+</navLabel>
+<content src="xhtml/chapter0005_04.xhtml#ch05-head-05"/>
+</navPoint>
+<navPoint id="bb82" playOrder="82"><navLabel>
+<text>Ensure Shared Power </text>
+</navLabel>
+<content src="xhtml/chapter0005_05.xhtml#ch05-head-06"/>
+</navPoint>
+</navPoint>
+<navPoint id="bb83" playOrder="83"><navLabel>
+<text>Teaching Strategies That Support Culturally and Linguistically Diverse Children</text>
+</navLabel>
+<content src="xhtml/chapter0005_06.xhtml"/>
+
+<navPoint id="bb84" playOrder="84"><navLabel>
+<text>Focus on Academic Vocabulary</text>
+</navLabel>
+<content src="xhtml/chapter0005_06.xhtml#ch05-head-07"/>
+</navPoint>
+<navPoint id="bb85" playOrder="85"><navLabel>
+<text>Foster Student Participation during Instruction </text>
+</navLabel>
+<content src="xhtml/chapter0005_07.xhtml#ch05-head-08"/>
+</navPoint>
+</navPoint>
+<navPoint id="bb86" playOrder="86"><navLabel>
+<text>Assessment Considerations for ELLs </text>
+</navLabel>
+<content src="xhtml/chapter0005_08.xhtml"/>
+
+<navPoint id="bb87" playOrder="87"><navLabel>
+<text>Select Tasks with Multiple Entry and Exit Points</text>
+</navLabel>
+<content src="xhtml/chapter0005_08.xhtml#ch05-head-09"/>
+</navPoint>
+<navPoint id="bb88" playOrder="88"><navLabel>
+<text>Use Diagnostic Interviews</text>
+</navLabel>
+<content src="xhtml/chapter0005_09.xhtml#ch05-head-10"/>
+</navPoint>
+<navPoint id="bb89" playOrder="89"><navLabel>
+<text>Limit Linguistic Load</text>
+</navLabel>
+<content src="xhtml/chapter0005_10.xhtml#ch05-head-11"/>
+</navPoint>
+<navPoint id="bb90" playOrder="90"><navLabel>
+<text>Provide Accommodations</text>
+</navLabel>
+<content src="xhtml/chapter0005_11.xhtml#ch05-head-12"/>
+</navPoint>
+</navPoint>
+</navPoint>
+<navPoint id="bb91" playOrder="91"><navLabel>
+<text>Chapter 6 Planning, Teaching, and Assessing Children with Exceptionalities</text>
+</navLabel>
+<content src="xhtml/chapter0006_00.xhtml"/>
+
+<navPoint id="bb92" playOrder="92"><navLabel>
+<text>Instructional Principles for Diverse Learners</text>
+</navLabel>
+<content src="xhtml/chapter0006_00.xhtml#chap06-head2_1"/>
+
+<navPoint id="bb93" playOrder="93"><navLabel>
+<text>Prevention Models</text>
+</navLabel>
+<content src="xhtml/chapter0006_00.xhtml#ch06-head-01"/>
+</navPoint>
+</navPoint>
+<navPoint id="bb94" playOrder="94"><navLabel>
+<text>Implementing Interventions</text>
+</navLabel>
+<content src="xhtml/chapter0006_01.xhtml"/>
+
+<navPoint id="bb95" playOrder="95"><navLabel>
+<text>Explicit Strategy Instruction</text>
+</navLabel>
+<content src="xhtml/chapter0006_01.xhtml#ch06-head-02"/>
+</navPoint>
+<navPoint id="bb96" playOrder="96"><navLabel>
+<text>Concrete, Semi-Concrete, Abstract (CSA)</text>
+</navLabel>
+<content src="xhtml/chapter0006_02.xhtml#ch06-head-03"/>
+</navPoint>
+<navPoint id="bb97" playOrder="97"><navLabel>
+<text>Peer-Assisted Learning</text>
+</navLabel>
+<content src="xhtml/chapter0006_03.xhtml#ch06-head-04"/>
+</navPoint>
+<navPoint id="bb98" playOrder="98"><navLabel>
+<text>Think-Alouds</text>
+</navLabel>
+<content src="xhtml/chapter0006_04.xhtml#ch06-head-05"/>
+</navPoint>
+</navPoint>
+<navPoint id="bb99" playOrder="99"><navLabel>
+<text>Teaching and Assessing Children with Learning Disabilities</text>
+</navLabel>
+<content src="xhtml/chapter0006_05.xhtml"/>
+</navPoint>
+<navPoint id="bb100" playOrder="100"><navLabel>
+<text>Adapting for Children with Moderate/Severe Disabilities</text>
+</navLabel>
+<content src="xhtml/chapter0006_06.xhtml"/>
+</navPoint>
+<navPoint id="bb101" playOrder="101"><navLabel>
+<text>Planning for Children Who Are Mathematically Gifted</text>
+</navLabel>
+<content src="xhtml/chapter0006_07.xhtml"/>
+
+<navPoint id="bb102" playOrder="102"><navLabel>
+<text>Acceleration and Pacing</text>
+</navLabel>
+<content src="xhtml/chapter0006_07.xhtml#ch06-head-06"/>
+</navPoint>
+<navPoint id="bb103" playOrder="103"><navLabel>
+<text>Depth</text>
+</navLabel>
+<content src="xhtml/chapter0006_08.xhtml#ch06-head-07"/>
+</navPoint>
+<navPoint id="bb104" playOrder="104"><navLabel>
+<text>Complexity</text>
+</navLabel>
+<content src="xhtml/chapter0006_09.xhtml#ch06-head-08"/>
+</navPoint>
+<navPoint id="bb105" playOrder="105"><navLabel>
+<text>Creativity</text>
+</navLabel>
+<content src="xhtml/chapter0006_10.xhtml#ch06-head-09"/>
+</navPoint>
+<navPoint id="bb106" playOrder="106"><navLabel>
+<text>Strategies to Avoid</text>
+</navLabel>
+<content src="xhtml/chapter0006_11.xhtml#ch06-head-10"/>
+</navPoint>
+</navPoint>
+</navPoint>
+<navPoint id="bb107" playOrder="107"><navLabel>
+<text>Chapter 7 Collaborating with Families and Other Stakeholders</text>
+</navLabel>
+<content src="xhtml/chapter0007_00.xhtml"/>
+
+<navPoint id="bb108" playOrder="108"><navLabel>
+<text>Sharing the Message with Stakeholders</text>
+</navLabel>
+<content src="xhtml/chapter0007_00.xhtml#chap07-head2_1"/>
+
+<navPoint id="bb109" playOrder="109"><navLabel>
+<text>Why Change?</text>
+</navLabel>
+<content src="xhtml/chapter0007_00.xhtml#chap7-head3_1"/>
+</navPoint>
+<navPoint id="bb110" playOrder="110"><navLabel>
+<text>Pedagogy</text>
+</navLabel>
+<content src="xhtml/chapter0007_01.xhtml#chap7-head3_2"/>
+</navPoint>
+<navPoint id="bb111" playOrder="111"><navLabel>
+<text>Content</text>
+</navLabel>
+<content src="xhtml/chapter0007_02.xhtml#chap7-head3_3"/>
+</navPoint>
+<navPoint id="bb112" playOrder="112"><navLabel>
+<text>Student Learning and Outcomes</text>
+</navLabel>
+<content src="xhtml/chapter0007_03.xhtml#chap7-head3_4"/>
+</navPoint>
+</navPoint>
+<navPoint id="bb113" playOrder="113"><navLabel>
+<text>Administrator Engagement and Support</text>
+</navLabel>
+<content src="xhtml/chapter0007_04.xhtml"/>
+</navPoint>
+<navPoint id="bb114" playOrder="114"><navLabel>
+<text>Family Engagement</text>
+</navLabel>
+<content src="xhtml/chapter0007_05.xhtml"/>
+
+<navPoint id="bb115" playOrder="115"><navLabel>
+<text>Family Math Nights</text>
+</navLabel>
+<content src="xhtml/chapter0007_05.xhtml#chap7-head3_5"/>
+</navPoint>
+<navPoint id="bb116" playOrder="116"><navLabel>
+<text>Classroom Visits</text>
+</navLabel>
+<content src="xhtml/chapter0007_06.xhtml#chap7-head3_6"/>
+</navPoint>
+<navPoint id="bb117" playOrder="117"><navLabel>
+<text>Involving ALL Families</text>
+</navLabel>
+<content src="xhtml/chapter0007_07.xhtml#chap7-head3_7"/>
+</navPoint>
+</navPoint>
+<navPoint id="bb118" playOrder="118"><navLabel>
+<text>Homework Practices and Parent Coaching</text>
+</navLabel>
+<content src="xhtml/chapter0007_08.xhtml"/>
+
+<navPoint id="bb119" playOrder="119"><navLabel>
+<text>Tips for Helping Parents Help Their Child</text>
+</navLabel>
+<content src="xhtml/chapter0007_08.xhtml#chap7-head3_8"/>
+</navPoint>
+<navPoint id="bb120" playOrder="120"><navLabel>
+<text>Resources for Families</text>
+</navLabel>
+<content src="xhtml/chapter0007_09.xhtml#chap7-head3_9"/>
+</navPoint>
+<navPoint id="bb121" playOrder="121"><navLabel>
+<text>Seeing and Doing Mathematics at Home</text>
+</navLabel>
+<content src="xhtml/chapter0007_10.xhtml#chap7-head3_10"/>
+</navPoint>
+</navPoint>
+</navPoint>
+
+<navPoint id="bb122" playOrder="122"><navLabel>
+<text>Part 2: Teaching Student-Centered Mathematics</text>
+</navLabel>
+<content src="xhtml/part02.xhtml"/>
+</navPoint>
+
+<navPoint id="bb123" playOrder="123"><navLabel>
+<text>Chapter 8 Developing Early Number Concepts and Number Sense</text>
+</navLabel>
+<content src="xhtml/chapter0008_00.xhtml"/>
+
+<navPoint id="bb124" playOrder="124"><navLabel>
+<text>The Number Core: Early Counting and Number Concepts</text>
+</navLabel>
+<content src="xhtml/chapter0008_01.xhtml"/>
+
+<navPoint id="bb125" playOrder="125"><navLabel>
+<text>Early Counting</text>
+</navLabel>
+<content src="xhtml/chapter0008_01.xhtml#chap8-head3_1"/>
+</navPoint>
+<navPoint id="bb126" playOrder="126"><navLabel>
+<text>Thinking about Zero</text>
+</navLabel>
+<content src="xhtml/chapter0008_02.xhtml#chap8-head3_2"/>
+</navPoint>
+<navPoint id="bb127" playOrder="127"><navLabel>
+<text>Counting On</text>
+</navLabel>
+<content src="xhtml/chapter0008_03.xhtml#chap8-head3_3"/>
+</navPoint>
+</navPoint>
+<navPoint id="bb128" playOrder="128"><navLabel>
+<text>The Relations Core: More Than, Less Than, and Equal To</text>
+</navLabel>
+<content src="xhtml/chapter0008_04.xhtml"/>
+</navPoint>
+<navPoint id="bb129" playOrder="129"><navLabel>
+<text>Developing Number Sense by Building Number Relationships</text>
+</navLabel>
+<content src="xhtml/chapter0008_05.xhtml"/>
+
+<navPoint id="bb130" playOrder="130"><navLabel>
+<text>Relationships between Numbers 1 through 10</text>
+</navLabel>
+<content src="xhtml/chapter0008_05.xhtml#chap8-head3_4"/>
+</navPoint>
+<navPoint id="bb131" playOrder="131"><navLabel>
+<text>Relationships for Numbers 10 to 20</text>
+</navLabel>
+<content src="xhtml/chapter0008_06.xhtml#chap8-head3_5"/>
+</navPoint>
+</navPoint>
+<navPoint id="bb132" playOrder="132"><navLabel>
+<text>Number Sense and the Real World</text>
+</navLabel>
+<content src="xhtml/chapter0008_07.xhtml"/>
+
+<navPoint id="bb133" playOrder="133"><navLabel>
+<text>Calendar Activities</text>
+</navLabel>
+<content src="xhtml/chapter0008_07.xhtml#chap8-head3_6"/>
+</navPoint>
+<navPoint id="bb134" playOrder="134"><navLabel>
+<text>Estimation and Measurement</text>
+</navLabel>
+<content src="xhtml/chapter0008_08.xhtml#chap8-head3_7"/>
+</navPoint>
+<navPoint id="bb135" playOrder="135"><navLabel>
+<text>Data Collection and Analysis</text>
+</navLabel>
+<content src="xhtml/chapter0008_09.xhtml#chap8-head3_8"/>
+</navPoint>
+</navPoint>
+<navPoint id="bb136" playOrder="136"><navLabel>
+<text>Revisiting the Big Ideas for Number Concepts</text>
+</navLabel>
+<content src="xhtml/chapter0008_10.xhtml"/>
+</navPoint>
+</navPoint>
+<navPoint id="bb137" playOrder="137"><navLabel>
+<text>Chapter 9 Developing Meanings for the Operations</text>
+</navLabel>
+<content src="xhtml/chapter0009_00.xhtml"/>
+
+<navPoint id="bb138" playOrder="138"><navLabel>
+<text>Teaching Operations through Contextual Problems</text>
+</navLabel>
+<content src="xhtml/chapter0009_01.xhtml"/>
+</navPoint>
+<navPoint id="bb139" playOrder="139"><navLabel>
+<text>Children’s Conceptions of Addition and Subtraction</text>
+</navLabel>
+<content src="xhtml/chapter0009_02.xhtml"/>
+</navPoint>
+<navPoint id="bb140" playOrder="140"><navLabel>
+<text>Addition and Subtraction Problem Structures</text>
+</navLabel>
+<content src="xhtml/chapter0009_03.xhtml"/>
+
+<navPoint id="bb141" playOrder="141"><navLabel>
+<text>Change Problems</text>
+</navLabel>
+<content src="xhtml/chapter0009_03.xhtml#chap9-head3_1"/>
+</navPoint>
+<navPoint id="bb142" playOrder="142"><navLabel>
+<text>Part–Part–Whole Problems</text>
+</navLabel>
+<content src="xhtml/chapter0009_04.xhtml#chap9-head3_2"/>
+</navPoint>
+<navPoint id="bb143" playOrder="143"><navLabel>
+<text>Compare Problems</text>
+</navLabel>
+<content src="xhtml/chapter0009_05.xhtml#chap9-head3_3"/>
+</navPoint>
+<navPoint id="bb144" playOrder="144"><navLabel>
+<text>Problem Difficulty</text>
+</navLabel>
+<content src="xhtml/chapter0009_06.xhtml#chap9-head3_4"/>
+</navPoint>
+</navPoint>
+<navPoint id="bb145" playOrder="145"><navLabel>
+<text>Teaching Addition and Subtraction</text>
+</navLabel>
+<content src="xhtml/chapter0009_07.xhtml"/>
+
+<navPoint id="bb146" playOrder="146"><navLabel>
+<text>Contextual Problems</text>
+</navLabel>
+<content src="xhtml/chapter0009_07.xhtml#chap9-head3_5"/>
+</navPoint>
+<navPoint id="bb147" playOrder="147"><navLabel>
+<text>Introducing Symbolism</text>
+</navLabel>
+<content src="xhtml/chapter0009_08.xhtml#chap9-head3_6"/>
+</navPoint>
+<navPoint id="bb148" playOrder="148"><navLabel>
+<text>Model-Based Problems for Addition and Subtraction</text>
+</navLabel>
+<content src="xhtml/chapter0009_09.xhtml#chap9-head3_7"/>
+</navPoint>
+<navPoint id="bb149" playOrder="149"><navLabel>
+<text>Properties of Addition and Subtraction</text>
+</navLabel>
+<content src="xhtml/chapter0009_10.xhtml#chap9-head3_8"/>
+</navPoint>
+<navPoint id="bb150" playOrder="150"><navLabel>
+<text>Children’s Strategies for Solving Addition and Subtraction Problems</text>
+</navLabel>
+<content src="xhtml/chapter0009_11.xhtml#chap9-head3_9"/>
+</navPoint>
+</navPoint>
+<navPoint id="bb151" playOrder="151"><navLabel>
+<text>Laying the Foundation for Multiplication and Division</text>
+</navLabel>
+<content src="xhtml/chapter0009_12.xhtml"/>
+
+<navPoint id="bb152" playOrder="152"><navLabel>
+<text>Multiplication and Division Problem Structures</text>
+</navLabel>
+<content src="xhtml/chapter0009_12.xhtml#chap9-head3_10"/>
+</navPoint>
+</navPoint>
+<navPoint id="bb153" playOrder="153"><navLabel>
+<text>Teaching Multiplication and Division</text>
+</navLabel>
+<content src="xhtml/chapter0009_13.xhtml"/>
+
+<navPoint id="bb154" playOrder="154"><navLabel>
+<text>Contextual Problems</text>
+</navLabel>
+<content src="xhtml/chapter0009_13.xhtml#chap9-head3_11"/>
+</navPoint>
+<navPoint id="bb155" playOrder="155"><navLabel>
+<text>Model-Based Problems for Multiplication and Division</text>
+</navLabel>
+<content src="xhtml/chapter0009_14.xhtml#chap9-head3_12"/>
+</navPoint>
+<navPoint id="bb156" playOrder="156"><navLabel>
+<text>Laying the Foundation for Multiplication Properties in Earlier Grades</text>
+</navLabel>
+<content src="xhtml/chapter0009_15.xhtml#chap9-head3_13"/>
+</navPoint>
+<navPoint id="bb157" playOrder="157"><navLabel>
+<text>Children’s Strategies for Solving Multiplication and Division Problems</text>
+</navLabel>
+<content src="xhtml/chapter0009_16.xhtml#chap9-head3_14"/>
+</navPoint>
+</navPoint>
+<navPoint id="bb158" playOrder="158"><navLabel>
+<text>Supporting Children in Solving Contextual Problems</text>
+</navLabel>
+<content src="xhtml/chapter0009_17.xhtml"/>
+
+<navPoint id="bb159" playOrder="159"><navLabel>
+<text>Analyzing Contextual Problems</text>
+</navLabel>
+<content src="xhtml/chapter0009_17.xhtml#chap9-head3_15"/>
+</navPoint>
+<navPoint id="bb160" playOrder="160"><navLabel>
+<text>Caution: Avoid Relying on the Key Words Strategy!</text>
+</navLabel>
+<content src="xhtml/chapter0009_18.xhtml#chap9-head3_16"/>
+</navPoint>
+<navPoint id="bb161" playOrder="161"><navLabel>
+<text>Require Explanations</text>
+</navLabel>
+<content src="xhtml/chapter0009_19.xhtml#chap9-head3_17"/>
+</navPoint>
+<navPoint id="bb162" playOrder="162"><navLabel>
+<text>Multistep Problems</text>
+</navLabel>
+<content src="xhtml/chapter0009_20.xhtml#chap9-head3_18"/>
+</navPoint>
+</navPoint>
+<navPoint id="bb163" playOrder="163"><navLabel>
+<text>Final Thoughts: Outcomes Related to Teaching and Learning Operations</text>
+</navLabel>
+<content src="xhtml/chapter0009_21.xhtml"/>
+</navPoint>
+</navPoint>
+<navPoint id="bb164" playOrder="164"><navLabel>
+<text>Chapter 10 Helping Children Develop Fluency with Basic Facts</text>
+</navLabel>
+<content src="xhtml/chapter0010_00.xhtml"/>
+
+<navPoint id="bb165" playOrder="165"><navLabel>
+<text>The Developmental Nature of Learning Basic Facts</text>
+</navLabel>
+<content src="xhtml/chapter0010_01.xhtml"/>
+</navPoint>
+<navPoint id="bb166" playOrder="166"><navLabel>
+<text>Different Approaches to Teaching Basic Facts</text>
+</navLabel>
+<content src="xhtml/chapter0010_02.xhtml"/>
+
+<navPoint id="bb167" playOrder="167"><navLabel>
+<text>Memorization</text>
+</navLabel>
+<content src="xhtml/chapter0010_02.xhtml#chap10-head3_1"/>
+</navPoint>
+<navPoint id="bb168" playOrder="168"><navLabel>
+<text>Explicit Strategy Instruction</text>
+</navLabel>
+<content src="xhtml/chapter0010_03.xhtml#chap10-head3_2"/>
+</navPoint>
+<navPoint id="bb169" playOrder="169"><navLabel>
+<text>Guided Invention</text>
+</navLabel>
+<content src="xhtml/chapter0010_04.xhtml#chap10-head3_3"/>
+</navPoint>
+</navPoint>
+<navPoint id="bb170" playOrder="170"><navLabel>
+<text>Teaching Basic Facts Effectively</text>
+</navLabel>
+<content src="xhtml/chapter0010_05.xhtml"/>
+
+<navPoint id="bb171" playOrder="171"><navLabel>
+<text>Use Purposefully Designed Story Problems</text>
+</navLabel>
+<content src="xhtml/chapter0010_05.xhtml#chap10-head3_4"/>
+</navPoint>
+<navPoint id="bb172" playOrder="172"><navLabel>
+<text>Explicitly Teach Reasoning Strategies</text>
+</navLabel>
+<content src="xhtml/chapter0010_06.xhtml#chap10-head3_5"/>
+</navPoint>
+</navPoint>
+<navPoint id="bb173" playOrder="173"><navLabel>
+<text>Assessing Basic Facts Effectively</text>
+</navLabel>
+<content src="xhtml/chapter0010_07.xhtml"/>
+
+<navPoint id="bb174" playOrder="174"><navLabel>
+<text>What Is Wrong with Timed Tests?</text>
+</navLabel>
+<content src="xhtml/chapter0010_07.xhtml#chap10-head3_6"/>
+</navPoint>
+<navPoint id="bb175" playOrder="175"><navLabel>
+<text>How Might I Assess Basic Fact Fluency?</text>
+</navLabel>
+<content src="xhtml/chapter0010_08.xhtml#chap10-head3_7"/>
+</navPoint>
+</navPoint>
+<navPoint id="bb176" playOrder="176"><navLabel>
+<text>Reasoning Strategies for Addition Facts</text>
+</navLabel>
+<content src="xhtml/chapter0010_09.xhtml"/>
+
+<navPoint id="bb177" playOrder="177"><navLabel>
+<text>One More Than and Two More Than</text>
+</navLabel>
+<content src="xhtml/chapter0010_09.xhtml#chap10-head3_8"/>
+</navPoint>
+<navPoint id="bb178" playOrder="178"><navLabel>
+<text>Adding Zero</text>
+</navLabel>
+<content src="xhtml/chapter0010_10.xhtml#chap10-head3_9"/>
+</navPoint>
+<navPoint id="bb179" playOrder="179"><navLabel>
+<text>Doubles</text>
+</navLabel>
+<content src="xhtml/chapter0010_11.xhtml#chap10-head3_10"/>
+</navPoint>
+<navPoint id="bb180" playOrder="180"><navLabel>
+<text>Combinations of 10</text>
+</navLabel>
+<content src="xhtml/chapter0010_12.xhtml#chap10-head3_11"/>
+</navPoint>
+<navPoint id="bb181" playOrder="181"><navLabel>
+<text>Making 10</text>
+</navLabel>
+<content src="xhtml/chapter0010_13.xhtml#chap10-head3_12"/>
+</navPoint>
+<navPoint id="bb182" playOrder="182"><navLabel>
+<text>Using 5 as an Anchor</text>
+</navLabel>
+<content src="xhtml/chapter0010_14.xhtml#chap10-head3_13"/>
+</navPoint>
+<navPoint id="bb183" playOrder="183"><navLabel>
+<text>Near-Doubles</text>
+</navLabel>
+<content src="xhtml/chapter0010_15.xhtml#chap10-head3_14"/>
+</navPoint>
+</navPoint>
+<navPoint id="bb184" playOrder="184"><navLabel>
+<text>Reasoning Strategies for Subtraction Facts</text>
+</navLabel>
+<content src="xhtml/chapter0010_16.xhtml"/>
+
+<navPoint id="bb185" playOrder="185"><navLabel>
+<text>Think-Addition</text>
+</navLabel>
+<content src="xhtml/chapter0010_16.xhtml#chap10-head3_15"/>
+</navPoint>
+<navPoint id="bb186" playOrder="186"><navLabel>
+<text>Down Under 10</text>
+</navLabel>
+<content src="xhtml/chapter0010_17.xhtml#chap10-head3_16"/>
+</navPoint>
+<navPoint id="bb187" playOrder="187"><navLabel>
+<text>Take from 10</text>
+</navLabel>
+<content src="xhtml/chapter0010_18.xhtml#chap10-head3_17"/>
+</navPoint>
+</navPoint>
+<navPoint id="bb188" playOrder="188"><navLabel>
+<text>Reinforcing Reasoning Strategies</text>
+</navLabel>
+<content src="xhtml/chapter0010_19.xhtml"/>
+</navPoint>
+<navPoint id="bb189" playOrder="189"><navLabel>
+<text>Building a Foundation for Multiplication Facts</text>
+</navLabel>
+<content src="xhtml/chapter0010_20.xhtml"/>
+
+<navPoint id="bb190" playOrder="190"><navLabel>
+<text>Twos</text>
+</navLabel>
+<content src="xhtml/chapter0010_20.xhtml#chap10-head3_18"/>
+</navPoint>
+<navPoint id="bb191" playOrder="191"><navLabel>
+<text>Fives</text>
+</navLabel>
+<content src="xhtml/chapter0010_21.xhtml#chap10-head3_19"/>
+</navPoint>
+<navPoint id="bb192" playOrder="192"><navLabel>
+<text>Zeros and Ones</text>
+</navLabel>
+<content src="xhtml/chapter0010_22.xhtml#chap10-head3_20"/>
+</navPoint>
+</navPoint>
+<navPoint id="bb193" playOrder="193"><navLabel>
+<text>Reinforcing Basic Fact Mastery</text>
+</navLabel>
+<content src="xhtml/chapter0010_23.xhtml"/>
+
+<navPoint id="bb194" playOrder="194"><navLabel>
+<text>Supporting Basic Fact Fluency through Games</text>
+</navLabel>
+<content src="xhtml/chapter0010_23.xhtml#chap10-head3_21"/>
+</navPoint>
+<navPoint id="bb195" playOrder="195"><navLabel>
+<text>Effective Drill</text>
+</navLabel>
+<content src="xhtml/chapter0010_24.xhtml#chap10-head3_22"/>
+</navPoint>
+</navPoint>
+<navPoint id="bb196" playOrder="196"><navLabel>
+<text>Do’s and Don’ts for Teaching Basic Facts</text>
+</navLabel>
+<content src="xhtml/chapter0010_25.xhtml"/>
+
+<navPoint id="bb197" playOrder="197"><navLabel>
+<text>What to Do</text>
+</navLabel>
+<content src="xhtml/chapter0010_25.xhtml#chap10-head3_23"/>
+</navPoint>
+<navPoint id="bb198" playOrder="198"><navLabel>
+<text>What Not to Do</text>
+</navLabel>
+<content src="xhtml/chapter0010_26.xhtml#chap10-head3_24"/>
+</navPoint>
+</navPoint>
+</navPoint>
+<navPoint id="bb199" playOrder="199"><navLabel>
+<text>Chapter 11 Developing Whole-Number Place-Value Concepts</text>
+</navLabel>
+<content src="xhtml/chapter0011_00.xhtml"/>
+
+<navPoint id="bb200" playOrder="200"><navLabel>
+<text>Pre–Place-Value Understandings</text>
+</navLabel>
+<content src="xhtml/chapter0011_01.xhtml"/>
+</navPoint>
+<navPoint id="bb201" playOrder="201"><navLabel>
+<text>Developing Foundational Ideas in Whole-Number Place Value</text>
+</navLabel>
+<content src="xhtml/chapter0011_02.xhtml"/>
+
+<navPoint id="bb202" playOrder="202"><navLabel>
+<text>Integrating Base-Ten Groupings with Counting by Ones</text>
+</navLabel>
+<content src="xhtml/chapter0011_02.xhtml#chap11-head3_1"/>
+</navPoint>
+<navPoint id="bb203" playOrder="203"><navLabel>
+<text>Integrating Base-Ten Groupings with Words</text>
+</navLabel>
+<content src="xhtml/chapter0011_03.xhtml#chap11-head3_2"/>
+</navPoint>
+<navPoint id="bb204" playOrder="204"><navLabel>
+<text>Integrating Base-Ten Groupings with Place-Value Notation</text>
+</navLabel>
+<content src="xhtml/chapter0011_04.xhtml#chap11-head3_3"/>
+</navPoint>
+</navPoint>
+<navPoint id="bb205" playOrder="205"><navLabel>
+<text>Base-Ten Models for Place Value</text>
+</navLabel>
+<content src="xhtml/chapter0011_05.xhtml"/>
+
+<navPoint id="bb206" playOrder="206"><navLabel>
+<text>Groupable Models</text>
+</navLabel>
+<content src="xhtml/chapter0011_05.xhtml#chap11-head3_4"/>
+</navPoint>
+<navPoint id="bb207" playOrder="207"><navLabel>
+<text>Pregrouped Models</text>
+</navLabel>
+<content src="xhtml/chapter0011_06.xhtml#chap11-head3_5"/>
+</navPoint>
+<navPoint id="bb208" playOrder="208"><navLabel>
+<text>Nonproportional Models</text>
+</navLabel>
+<content src="xhtml/chapter0011_07.xhtml#chap11-head3_6"/>
+</navPoint>
+</navPoint>
+<navPoint id="bb209" playOrder="209"><navLabel>
+<text>Developing Base-Ten Concepts</text>
+</navLabel>
+<content src="xhtml/chapter0011_08.xhtml"/>
+
+<navPoint id="bb210" playOrder="210"><navLabel>
+<text>Grouping Activities</text>
+</navLabel>
+<content src="xhtml/chapter0011_08.xhtml#chap11-head3_7"/>
+</navPoint>
+<navPoint id="bb211" playOrder="211"><navLabel>
+<text>Grouping Tens to Make 100</text>
+</navLabel>
+<content src="xhtml/chapter0011_09.xhtml#chap11-head3_8"/>
+</navPoint>
+<navPoint id="bb212" playOrder="212"><navLabel>
+<text>Equivalent Representations</text>
+</navLabel>
+<content src="xhtml/chapter0011_10.xhtml#chap11-head3_9"/>
+</navPoint>
+</navPoint>
+<navPoint id="bb213" playOrder="213"><navLabel>
+<text>Oral and Written Names for Numbers</text>
+</navLabel>
+<content src="xhtml/chapter0011_11.xhtml"/>
+
+<navPoint id="bb214" playOrder="214"><navLabel>
+<text>Two-Digit Number Names</text>
+</navLabel>
+<content src="xhtml/chapter0011_11.xhtml#chap11-head3_10"/>
+</navPoint>
+<navPoint id="bb215" playOrder="215"><navLabel>
+<text>Three-Digit Number Names</text>
+</navLabel>
+<content src="xhtml/chapter0011_12.xhtml#chap11-head3_11"/>
+</navPoint>
+<navPoint id="bb216" playOrder="216"><navLabel>
+<text>Written Symbols</text>
+</navLabel>
+<content src="xhtml/chapter0011_13.xhtml#chap11-head3_12"/>
+</navPoint>
+</navPoint>
+<navPoint id="bb217" playOrder="217"><navLabel>
+<text>Patterns and Relationships with Multidigit Numbers</text>
+</navLabel>
+<content src="xhtml/chapter0011_14.xhtml"/>
+
+<navPoint id="bb218" playOrder="218"><navLabel>
+<text>The Hundreds Chart</text>
+</navLabel>
+<content src="xhtml/chapter0011_14.xhtml#chap11-head3_13"/>
+</navPoint>
+<navPoint id="bb219" playOrder="219"><navLabel>
+<text>Relationships with Benchmark Numbers</text>
+</navLabel>
+<content src="xhtml/chapter0011_15.xhtml#chap11-head3_14"/>
+</navPoint>
+</navPoint>
+<navPoint id="bb220" playOrder="220"><navLabel>
+<text>Connecting Place Value to Addition and Subtraction</text>
+</navLabel>
+<content src="xhtml/chapter0011_16.xhtml"/>
+</navPoint>
+<navPoint id="bb221" playOrder="221"><navLabel>
+<text>Connections to Real-World Ideas</text>
+</navLabel>
+<content src="xhtml/chapter0011_17.xhtml"/>
+</navPoint>
+</navPoint>
+<navPoint id="bb222" playOrder="222"><navLabel>
+<text>Chapter 12 Building Strategies for Whole-Number Computation</text>
+</navLabel>
+<content src="xhtml/chapter0012_00.xhtml"/>
+
+<navPoint id="bb223" playOrder="223"><navLabel>
+<text>A Move to Computational Fluency</text>
+</navLabel>
+<content src="xhtml/chapter0012_01.xhtml"/>
+</navPoint>
+<navPoint id="bb224" playOrder="224"><navLabel>
+<text>Connecting Addition and Subtraction to Place Value</text>
+</navLabel>
+<content src="xhtml/chapter0012_02.xhtml"/>
+</navPoint>
+<navPoint id="bb225" playOrder="225"><navLabel>
+<text>Three Types of Computational Strategies</text>
+</navLabel>
+<content src="xhtml/chapter0012_03.xhtml"/>
+
+<navPoint id="bb226" playOrder="226"><navLabel>
+<text>Direct Modeling</text>
+</navLabel>
+<content src="xhtml/chapter0012_03.xhtml#chap12-head3_1"/>
+</navPoint>
+<navPoint id="bb227" playOrder="227"><navLabel>
+<text>Invented Strategies</text>
+</navLabel>
+<content src="xhtml/chapter0012_04.xhtml#chap12-head3_2"/>
+</navPoint>
+<navPoint id="bb228" playOrder="228"><navLabel>
+<text>Standard Algorithms</text>
+</navLabel>
+<content src="xhtml/chapter0012_05.xhtml#chap12-head3_3"/>
+</navPoint>
+</navPoint>
+<navPoint id="bb229" playOrder="229"><navLabel>
+<text>Development of Invented Strategies</text>
+</navLabel>
+<content src="xhtml/chapter0012_06.xhtml"/>
+
+<navPoint id="bb230" playOrder="230"><navLabel>
+<text>Creating a Supportive Environment</text>
+</navLabel>
+<content src="xhtml/chapter0012_06.xhtml#chap12-head3_4"/>
+</navPoint>
+<navPoint id="bb231" playOrder="231"><navLabel>
+<text>Models to Support Invented Strategies</text>
+</navLabel>
+<content src="xhtml/chapter0012_07.xhtml#chap12-head3_5"/>
+</navPoint>
+</navPoint>
+<navPoint id="bb232" playOrder="232"><navLabel>
+<text>Development of Invented Strategies for Addition and Subtraction</text>
+</navLabel>
+<content src="xhtml/chapter0012_08.xhtml"/>
+
+<navPoint id="bb233" playOrder="233"><navLabel>
+<text>Adding and Subtracting Single-Digit Numbers</text>
+</navLabel>
+<content src="xhtml/chapter0012_08.xhtml#chap12-head3_6"/>
+</navPoint>
+<navPoint id="bb234" playOrder="234"><navLabel>
+<text>Adding Two-Digit Numbers</text>
+</navLabel>
+<content src="xhtml/chapter0012_09.xhtml#chap12-head3_7"/>
+</navPoint>
+<navPoint id="bb235" playOrder="235"><navLabel>
+<text>Subtraction as “Think Addition”</text>
+</navLabel>
+<content src="xhtml/chapter0012_10.xhtml#chap12-head3_8"/>
+</navPoint>
+<navPoint id="bb236" playOrder="236"><navLabel>
+<text>Take-Away Subtraction</text>
+</navLabel>
+<content src="xhtml/chapter0012_11.xhtml#chap12-head3_9"/>
+</navPoint>
+<navPoint id="bb237" playOrder="237"><navLabel>
+<text>Extensions and Challenges</text>
+</navLabel>
+<content src="xhtml/chapter0012_12.xhtml#chap12-head3_10"/>
+</navPoint>
+</navPoint>
+<navPoint id="bb238" playOrder="238"><navLabel>
+<text>Standard Algorithms for Addition and Subtraction</text>
+</navLabel>
+<content src="xhtml/chapter0012_13.xhtml"/>
+
+<navPoint id="bb239" playOrder="239"><navLabel>
+<text>Standard Algorithm for Addition</text>
+</navLabel>
+<content src="xhtml/chapter0012_13.xhtml#chap12-head3_11"/>
+</navPoint>
+<navPoint id="bb240" playOrder="240"><navLabel>
+<text>Standard Algorithm for Subtraction</text>
+</navLabel>
+<content src="xhtml/chapter0012_14.xhtml#chap12-head3_12"/>
+</navPoint>
+</navPoint>
+<navPoint id="bb241" playOrder="241"><navLabel>
+<text>Introducing Computational Estimation</text>
+</navLabel>
+<content src="xhtml/chapter0012_15.xhtml"/>
+
+<navPoint id="bb242" playOrder="242"><navLabel>
+<text>Understanding Computational Estimation</text>
+</navLabel>
+<content src="xhtml/chapter0012_15.xhtml#chap12-head3_13"/>
+</navPoint>
+<navPoint id="bb243" playOrder="243"><navLabel>
+<text>Suggestions for Teaching Computational Estimation</text>
+</navLabel>
+<content src="xhtml/chapter0012_16.xhtml#chap12-head3_14"/>
+</navPoint>
+</navPoint>
+<navPoint id="bb244" playOrder="244"><navLabel>
+<text>Computational Estimation Strategies</text>
+</navLabel>
+<content src="xhtml/chapter0012_17.xhtml"/>
+
+<navPoint id="bb245" playOrder="245"><navLabel>
+<text>Front-End Methods</text>
+</navLabel>
+<content src="xhtml/chapter0012_17.xhtml#chap12-head3_15"/>
+</navPoint>
+<navPoint id="bb246" playOrder="246"><navLabel>
+<text>Rounding Methods</text>
+</navLabel>
+<content src="xhtml/chapter0012_18.xhtml#chap12-head3_16"/>
+</navPoint>
+<navPoint id="bb247" playOrder="247"><navLabel>
+<text>Compatible Numbers</text>
+</navLabel>
+<content src="xhtml/chapter0012_19.xhtml#chap12-head3_17"/>
+</navPoint>
+</navPoint>
+<navPoint id="bb248" playOrder="248"><navLabel>
+<text>Common Misconceptions with Whole-Number Computation</text>
+</navLabel>
+<content src="xhtml/chapter0012_20.xhtml"/>
+</navPoint>
+</navPoint>
+<navPoint id="bb249" playOrder="249"><navLabel>
+<text>Chapter 13 Promoting Algebraic Reasoning</text>
+</navLabel>
+<content src="xhtml/chapter0013_00.xhtml"/>
+
+<navPoint id="bb250" playOrder="250"><navLabel>
+<text>Strands of Algebraic Reasoning</text>
+</navLabel>
+<content src="xhtml/chapter0013_01.xhtml"/>
+</navPoint>
+<navPoint id="bb251" playOrder="251"><navLabel>
+<text>Structure in the Number System: Connecting Number and Algebra</text>
+</navLabel>
+<content src="xhtml/chapter0013_02.xhtml"/>
+
+<navPoint id="bb252" playOrder="252"><navLabel>
+<text>Generalization with Number Combinations</text>
+</navLabel>
+<content src="xhtml/chapter0013_02.xhtml#chap13-head3_1"/>
+</navPoint>
+<navPoint id="bb253" playOrder="253"><navLabel>
+<text>Generalization with Place Value</text>
+</navLabel>
+<content src="xhtml/chapter0013_03.xhtml#chap13-head3_2"/>
+</navPoint>
+<navPoint id="bb254" playOrder="254"><navLabel>
+<text>Generalization with Algorithms</text>
+</navLabel>
+<content src="xhtml/chapter0013_04.xhtml#chap13-head3_3"/>
+</navPoint>
+</navPoint>
+<navPoint id="bb255" playOrder="255"><navLabel>
+<text>Meaningful Use of Symbols</text>
+</navLabel>
+<content src="xhtml/chapter0013_05.xhtml"/>
+
+<navPoint id="bb256" playOrder="256"><navLabel>
+<text>The Meaning of the Equal Sign</text>
+</navLabel>
+<content src="xhtml/chapter0013_05.xhtml#chap13-head3_4"/>
+</navPoint>
+<navPoint id="bb257" playOrder="257"><navLabel>
+<text>The Meaning of Variables</text>
+</navLabel>
+<content src="xhtml/chapter0013_06.xhtml#chap13-head3_5"/>
+</navPoint>
+</navPoint>
+<navPoint id="bb258" playOrder="258"><navLabel>
+<text>Structure in the Number System: Properties</text>
+</navLabel>
+<content src="xhtml/chapter0013_07.xhtml"/>
+
+<navPoint id="bb259" playOrder="259"><navLabel>
+<text>Making Sense of Properties</text>
+</navLabel>
+<content src="xhtml/chapter0013_07.xhtml#chap13-head3_6"/>
+</navPoint>
+<navPoint id="bb260" playOrder="260"><navLabel>
+<text>Making and Justifying Conjectures</text>
+</navLabel>
+<content src="xhtml/chapter0013_08.xhtml#chap13-head3_7"/>
+</navPoint>
+</navPoint>
+<navPoint id="bb261" playOrder="261"><navLabel>
+<text>Patterns and Functions</text>
+</navLabel>
+<content src="xhtml/chapter0013_09.xhtml"/>
+
+<navPoint id="bb262" playOrder="262"><navLabel>
+<text>Repeating Patterns</text>
+</navLabel>
+<content src="xhtml/chapter0013_09.xhtml#chap13-head3_8"/>
+</navPoint>
+<navPoint id="bb263" playOrder="263"><navLabel>
+<text>Growing Patterns</text>
+</navLabel>
+<content src="xhtml/chapter0013_10.xhtml#chap13-head3_9"/>
+</navPoint>
+<navPoint id="bb264" playOrder="264"><navLabel>
+<text>Functional Thinking</text>
+</navLabel>
+<content src="xhtml/chapter0013_11.xhtml#chap13-head3_10"/>
+</navPoint>
+<navPoint id="bb265" playOrder="265"><navLabel>
+<text>Number Patterns</text>
+</navLabel>
+<content src="xhtml/chapter0013_12.xhtml#chap13-head3_11"/>
+</navPoint>
+</navPoint>
+<navPoint id="bb266" playOrder="266"><navLabel>
+<text>Common Misconceptions with Algebraic Reasoning</text>
+</navLabel>
+<content src="xhtml/chapter0013_13.xhtml"/>
+</navPoint>
+</navPoint>
+<navPoint id="bb267" playOrder="267"><navLabel>
+<text>Chapter 14 Exploring Early Fraction Concepts</text>
+</navLabel>
+<content src="xhtml/chapter0014_00.xhtml"/>
+
+<navPoint id="bb268" playOrder="268"><navLabel>
+<text>Meanings of Fractions for PreK–2 Children</text>
+</navLabel>
+<content src="xhtml/chapter0014_01.xhtml"/>
+
+<navPoint id="bb269" playOrder="269"><navLabel>
+<text>Part–Whole</text>
+</navLabel>
+<content src="xhtml/chapter0014_01.xhtml#chap14-head3_1"/>
+</navPoint>
+<navPoint id="bb270" playOrder="270"><navLabel>
+<text>Equal Sharing</text>
+</navLabel>
+<content src="xhtml/chapter0014_02.xhtml#chap14-head3_2"/>
+</navPoint>
+<navPoint id="bb271" playOrder="271"><navLabel>
+<text>Measurement</text>
+</navLabel>
+<content src="xhtml/chapter0014_03.xhtml#chap14-head3_3"/>
+</navPoint>
+</navPoint>
+<navPoint id="bb272" playOrder="272"><navLabel>
+<text>Introducing Fraction Language</text>
+</navLabel>
+<content src="xhtml/chapter0014_04.xhtml"/>
+</navPoint>
+<navPoint id="bb273" playOrder="273"><navLabel>
+<text>Models for Fractions</text>
+</navLabel>
+<content src="xhtml/chapter0014_05.xhtml"/>
+
+<navPoint id="bb274" playOrder="274"><navLabel>
+<text>Area Models</text>
+</navLabel>
+<content src="xhtml/chapter0014_05.xhtml#chap14-head3_4"/>
+</navPoint>
+<navPoint id="bb275" playOrder="275"><navLabel>
+<text>Length Models</text>
+</navLabel>
+<content src="xhtml/chapter0014_06.xhtml#chap14-head3_5"/>
+</navPoint>
+<navPoint id="bb276" playOrder="276"><navLabel>
+<text>Set Models</text>
+</navLabel>
+<content src="xhtml/chapter0014_07.xhtml#chap14-head3_6"/>
+</navPoint>
+</navPoint>
+<navPoint id="bb277" playOrder="277"><navLabel>
+<text>Building Fractional Parts through Partitioning and Iterating</text>
+</navLabel>
+<content src="xhtml/chapter0014_08.xhtml"/>
+
+<navPoint id="bb278" playOrder="278"><navLabel>
+<text>Partitioning</text>
+</navLabel>
+<content src="xhtml/chapter0014_08.xhtml#chap14-head3_7"/>
+</navPoint>
+<navPoint id="bb279" playOrder="279"><navLabel>
+<text>Iterating</text>
+</navLabel>
+<content src="xhtml/chapter0014_09.xhtml#chap14-head3_8"/>
+</navPoint>
+<navPoint id="bb280" playOrder="280"><navLabel>
+<text>Fraction Size Is Relative</text>
+</navLabel>
+<content src="xhtml/chapter0014_10.xhtml#chap14-head3_9"/>
+</navPoint>
+</navPoint>
+<navPoint id="bb281" playOrder="281"><navLabel>
+<text>Fraction Equivalence and Comparison</text>
+</navLabel>
+<content src="xhtml/chapter0014_11.xhtml"/>
+</navPoint>
+<navPoint id="bb282" playOrder="282"><navLabel>
+<text>From Fraction Words to Symbols</text>
+</navLabel>
+<content src="xhtml/chapter0014_12.xhtml"/>
+</navPoint>
+<navPoint id="bb283" playOrder="283"><navLabel>
+<text>Teaching Considerations for Fraction Concepts</text>
+</navLabel>
+<content src="xhtml/chapter0014_13.xhtml"/>
+</navPoint>
+</navPoint>
+<navPoint id="bb284" playOrder="284"><navLabel>
+<text>Chapter 15 Building Measurement Concepts</text>
+</navLabel>
+<content src="xhtml/chapter0015_00.xhtml"/>
+
+<navPoint id="bb285" playOrder="285"><navLabel>
+<text>The Meaning and Process of Measuring</text>
+</navLabel>
+<content src="xhtml/chapter0015_01.xhtml"/>
+
+<navPoint id="bb286" playOrder="286"><navLabel>
+<text>Measurement Concepts and Skills</text>
+</navLabel>
+<content src="xhtml/chapter0015_01.xhtml#chap15-head3_1"/>
+</navPoint>
+<navPoint id="bb287" playOrder="287"><navLabel>
+<text>Introducing Nonstandard Units</text>
+</navLabel>
+<content src="xhtml/chapter0015_02.xhtml#chap15-head3_2"/>
+</navPoint>
+<navPoint id="bb288" playOrder="288"><navLabel>
+<text>Introducing Standard Units</text>
+</navLabel>
+<content src="xhtml/chapter0015_03.xhtml#chap15-head3_3"/>
+</navPoint>
+<navPoint id="bb289" playOrder="289"><navLabel>
+<text>The Role of Estimation and Approximation</text>
+</navLabel>
+<content src="xhtml/chapter0015_04.xhtml#chap15-head3_4"/>
+</navPoint>
+</navPoint>
+<navPoint id="bb290" playOrder="290"><navLabel>
+<text>Length</text>
+</navLabel>
+<content src="xhtml/chapter0015_05.xhtml"/>
+
+<navPoint id="bb291" playOrder="291"><navLabel>
+<text>Comparison Activities</text>
+</navLabel>
+<content src="xhtml/chapter0015_05.xhtml#chap15-head3_5"/>
+</navPoint>
+<navPoint id="bb292" playOrder="292"><navLabel>
+<text>Using Physical Models of Length Units</text>
+</navLabel>
+<content src="xhtml/chapter0015_06.xhtml#chap15-head3_6"/>
+</navPoint>
+<navPoint id="bb293" playOrder="293"><navLabel>
+<text>Laying the Foundation for Conversions</text>
+</navLabel>
+<content src="xhtml/chapter0015_07.xhtml#chap15-head3_7"/>
+</navPoint>
+<navPoint id="bb294" playOrder="294"><navLabel>
+<text>Making and Using Rulers</text>
+</navLabel>
+<content src="xhtml/chapter0015_08.xhtml#chap15-head3_8"/>
+</navPoint>
+</navPoint>
+<navPoint id="bb295" playOrder="295"><navLabel>
+<text>Time</text>
+</navLabel>
+<content src="xhtml/chapter0015_09.xhtml"/>
+
+<navPoint id="bb296" playOrder="296"><navLabel>
+<text>Comparison Activities</text>
+</navLabel>
+<content src="xhtml/chapter0015_09.xhtml#chap15-head3_9"/>
+</navPoint>
+<navPoint id="bb297" playOrder="297"><navLabel>
+<text>Reading Clocks</text>
+</navLabel>
+<content src="xhtml/chapter0015_10.xhtml#chap15-head3_10"/>
+</navPoint>
+</navPoint>
+<navPoint id="bb298" playOrder="298"><navLabel>
+<text>Money</text>
+</navLabel>
+<content src="xhtml/chapter0015_11.xhtml"/>
+
+<navPoint id="bb299" playOrder="299"><navLabel>
+<text>Recognizing Coins and Identifying Their Values</text>
+</navLabel>
+<content src="xhtml/chapter0015_11.xhtml#chap15-head3_11"/>
+</navPoint>
+<navPoint id="bb300" playOrder="300"><navLabel>
+<text>Counting Sets of Coins</text>
+</navLabel>
+<content src="xhtml/chapter0015_12.xhtml#chap15-head3_12"/>
+</navPoint>
+<navPoint id="bb301" playOrder="301"><navLabel>
+<text>Making Change</text>
+</navLabel>
+<content src="xhtml/chapter0015_13.xhtml#chap15-head3_13"/>
+</navPoint>
+</navPoint>
+<navPoint id="bb302" playOrder="302"><navLabel>
+<text>Other Measurable Attributes</text>
+</navLabel>
+<content src="xhtml/chapter0015_14.xhtml"/>
+
+<navPoint id="bb303" playOrder="303"><navLabel>
+<text>Area</text>
+</navLabel>
+<content src="xhtml/chapter0015_14.xhtml#chap15-head3_14"/>
+</navPoint>
+<navPoint id="bb304" playOrder="304"><navLabel>
+<text>Volume and Capacity</text>
+</navLabel>
+<content src="xhtml/chapter0015_15.xhtml#chap15-head3_15"/>
+</navPoint>
+<navPoint id="bb305" playOrder="305"><navLabel>
+<text>Weight and Mass</text>
+</navLabel>
+<content src="xhtml/chapter0015_16.xhtml#chap15-head3_16"/>
+</navPoint>
+</navPoint>
+<navPoint id="bb306" playOrder="306"><navLabel>
+<text>Common Misconceptions with Measurement</text>
+</navLabel>
+<content src="xhtml/chapter0015_17.xhtml"/>
+</navPoint>
+</navPoint>
+<navPoint id="bb307" playOrder="307"><navLabel>
+<text>Chapter 16 Developing Geometric Reasoning and Concepts</text>
+</navLabel>
+<content src="xhtml/chapter0016_00.xhtml"/>
+
+<navPoint id="bb308" playOrder="308"><navLabel>
+<text>Geometry Goals for Young Children</text>
+</navLabel>
+<content src="xhtml/chapter0016_01.xhtml"/>
+</navPoint>
+<navPoint id="bb309" playOrder="309"><navLabel>
+<text>Developing Geometric Reasoning</text>
+</navLabel>
+<content src="xhtml/chapter0016_02.xhtml"/>
+
+<navPoint id="bb310" playOrder="310"><navLabel>
+<text>The van Hiele Levels of Geometric Thought</text>
+</navLabel>
+<content src="xhtml/chapter0016_02.xhtml#chap16-head3_1"/>
+</navPoint>
+<navPoint id="bb311" playOrder="311"><navLabel>
+<text>Implications for Instruction</text>
+</navLabel>
+<content src="xhtml/chapter0016_03.xhtml#chap16-head3_2"/>
+</navPoint>
+</navPoint>
+<navPoint id="bb312" playOrder="312"><navLabel>
+<text>Shapes and Properties</text>
+</navLabel>
+<content src="xhtml/chapter0016_04.xhtml"/>
+
+<navPoint id="bb313" playOrder="313"><navLabel>
+<text>Sorting and Classifying</text>
+</navLabel>
+<content src="xhtml/chapter0016_04.xhtml#chap16-head3_3"/>
+</navPoint>
+<navPoint id="bb314" playOrder="314"><navLabel>
+<text>Composing and Decomposing Shapes</text>
+</navLabel>
+<content src="xhtml/chapter0016_05.xhtml#chap16-head3_4"/>
+</navPoint>
+<navPoint id="bb315" playOrder="315"><navLabel>
+<text>Categories of Two- and Three-Dimensional Shapes</text>
+</navLabel>
+<content src="xhtml/chapter0016_06.xhtml#chap16-head3_5"/>
+</navPoint>
+</navPoint>
+<navPoint id="bb316" playOrder="316"><navLabel>
+<text>Transformations</text>
+</navLabel>
+<content src="xhtml/chapter0016_07.xhtml"/>
+
+<navPoint id="bb317" playOrder="317"><navLabel>
+<text>Rigid Motions</text>
+</navLabel>
+<content src="xhtml/chapter0016_07.xhtml#chap16-head3_6"/>
+</navPoint>
+<navPoint id="bb318" playOrder="318"><navLabel>
+<text>Line Symmetry</text>
+</navLabel>
+<content src="xhtml/chapter0016_08.xhtml#chap16-head3_7"/>
+</navPoint>
+</navPoint>
+<navPoint id="bb319" playOrder="319"><navLabel>
+<text>Location</text>
+</navLabel>
+<content src="xhtml/chapter0016_09.xhtml"/>
+</navPoint>
+<navPoint id="bb320" playOrder="320"><navLabel>
+<text>Visualization</text>
+</navLabel>
+<content src="xhtml/chapter0016_10.xhtml"/>
+
+<navPoint id="bb321" playOrder="321"><navLabel>
+<text>Two-Dimensional Imagery</text>
+</navLabel>
+<content src="xhtml/chapter0016_10.xhtml#chap16-head3_8"/>
+</navPoint>
+<navPoint id="bb322" playOrder="322"><navLabel>
+<text>Three-Dimensional Imagery</text>
+</navLabel>
+<content src="xhtml/chapter0016_11.xhtml#chap16-head3_9"/>
+</navPoint>
+</navPoint>
+</navPoint>
+<navPoint id="bb323" playOrder="323"><navLabel>
+<text>Chapter 17 Helping Children Use Data</text>
+</navLabel>
+<content src="xhtml/chapter0017_00.xhtml"/>
+
+<navPoint id="bb324" playOrder="324"><navLabel>
+<text>What Does It Mean to Do Statistics?</text>
+</navLabel>
+<content src="xhtml/chapter0017_01.xhtml"/>
+
+<navPoint id="bb325" playOrder="325"><navLabel>
+<text>Is It Statistics or Mathematics?</text>
+</navLabel>
+<content src="xhtml/chapter0017_01.xhtml#chap17-head3_1"/>
+</navPoint>
+<navPoint id="bb326" playOrder="326"><navLabel>
+<text>The Shape of Data</text>
+</navLabel>
+<content src="xhtml/chapter0017_02.xhtml#chap17-head3_2"/>
+</navPoint>
+<navPoint id="bb327" playOrder="327"><navLabel>
+<text>The Process of Doing Statistics</text>
+</navLabel>
+<content src="xhtml/chapter0017_03.xhtml#chap17-head3_3"/>
+</navPoint>
+</navPoint>
+<navPoint id="bb328" playOrder="328"><navLabel>
+<text>Formulating Questions</text>
+</navLabel>
+<content src="xhtml/chapter0017_04.xhtml"/>
+
+<navPoint id="bb329" playOrder="329"><navLabel>
+<text>Questions about “Me and My Classmates”</text>
+</navLabel>
+<content src="xhtml/chapter0017_04.xhtml#chap17-head3_4"/>
+</navPoint>
+<navPoint id="bb330" playOrder="330"><navLabel>
+<text>Questions beyond Self and Classmates</text>
+</navLabel>
+<content src="xhtml/chapter0017_05.xhtml#chap17-head3_5"/>
+</navPoint>
+</navPoint>
+<navPoint id="bb331" playOrder="331"><navLabel>
+<text>Data Collection</text>
+</navLabel>
+<content src="xhtml/chapter0017_06.xhtml"/>
+
+<navPoint id="bb332" playOrder="332"><navLabel>
+<text>Collecting Data</text>
+</navLabel>
+<content src="xhtml/chapter0017_06.xhtml#chap17-head3_6"/>
+</navPoint>
+<navPoint id="bb333" playOrder="333"><navLabel>
+<text>Using Existing Data Sources</text>
+</navLabel>
+<content src="xhtml/chapter0017_07.xhtml#chap17-head3_7"/>
+</navPoint>
+</navPoint>
+<navPoint id="bb334" playOrder="334"><navLabel>
+<text>Data Analysis: Classification</text>
+</navLabel>
+<content src="xhtml/chapter0017_08.xhtml"/>
+
+<navPoint id="bb335" playOrder="335"><navLabel>
+<text>Classifications Using Attribute Materials</text>
+</navLabel>
+<content src="xhtml/chapter0017_08.xhtml#chap17-head3_8"/>
+</navPoint>
+<navPoint id="bb336" playOrder="336"><navLabel>
+<text>Classifications Using Content Areas</text>
+</navLabel>
+<content src="xhtml/chapter0017_09.xhtml#chap17-head3_9"/>
+</navPoint>
+</navPoint>
+<navPoint id="bb337" playOrder="337"><navLabel>
+<text>Data Analysis: Graphical Representations</text>
+</navLabel>
+<content src="xhtml/chapter0017_10.xhtml"/>
+
+<navPoint id="bb338" playOrder="338"><navLabel>
+<text>Creating Graphs</text>
+</navLabel>
+<content src="xhtml/chapter0017_10.xhtml#chap17-head3_10"/>
+</navPoint>
+<navPoint id="bb339" playOrder="339"><navLabel>
+<text>Analyzing Graphs</text>
+</navLabel>
+<content src="xhtml/chapter0017_11.xhtml#chap17-head3_11"/>
+</navPoint>
+<navPoint id="bb340" playOrder="340"><navLabel>
+<text>Graphs for PreK–2 Children</text>
+</navLabel>
+<content src="xhtml/chapter0017_12.xhtml#chap17-head3_12"/>
+</navPoint>
+</navPoint>
+<navPoint id="bb341" playOrder="341"><navLabel>
+<text>Interpreting Results</text>
+</navLabel>
+<content src="xhtml/chapter0017_13.xhtml"/>
+</navPoint>
+</navPoint>
+
+
+<navPoint id="bb342" playOrder="342"><navLabel>
+<text>Appendix A Common Core State Standards: Standards for Mathematical Practice</text>
+</navLabel>
+<content src="xhtml/appendix_a_00.xhtml"/>
+<navPoint id="bb343" playOrder="343"><navLabel>
+<text>Common Core State Standards Standards for Mathematical Practice</text>
+</navLabel>
+<content src="xhtml/appendix_a_00.xhtml#app_01"/>
+</navPoint>
+<navPoint id="bb344" playOrder="344"><navLabel>
+<text>Make sense of problems and persevere in solving them</text>
+</navLabel>
+<content src="xhtml/appendix_a_00.xhtml#app-a-01"/>
+</navPoint>
+<navPoint id="bb345" playOrder="345"><navLabel>
+<text>Reason abstractly and quantitatively</text>
+</navLabel>
+<content src="xhtml/appendix_a_01.xhtml"/>
+</navPoint>
+<navPoint id="bb346" playOrder="346"><navLabel>
+<text>Construct viable arguments and critique the reasoning of others</text>
+</navLabel>
+<content src="xhtml/appendix_a_02.xhtml"/>
+</navPoint>
+<navPoint id="bb347" playOrder="347"><navLabel>
+<text>Model with mathematics</text>
+</navLabel>
+<content src="xhtml/appendix_a_03.xhtml"/>
+</navPoint>
+<navPoint id="bb348" playOrder="348"><navLabel>
+<text>Use appropriate tools strategically</text>
+</navLabel>
+<content src="xhtml/appendix_a_04.xhtml"/>
+</navPoint>
+<navPoint id="bb349" playOrder="349"><navLabel>
+<text>Attend to precision</text>
+</navLabel>
+<content src="xhtml/appendix_a_05.xhtml"/>
+</navPoint>
+<navPoint id="bb350" playOrder="350"><navLabel>
+<text>Look for and make use of structure</text>
+</navLabel>
+<content src="xhtml/appendix_a_06.xhtml"/>
+</navPoint>
+<navPoint id="bb351" playOrder="351"><navLabel>
+<text>Look for and express regularity in repeated reasoning</text>
+</navLabel>
+<content src="xhtml/appendix_a_07.xhtml"/>
+</navPoint>
+<navPoint id="bb352" playOrder="352"><navLabel>
+<text>Connecting the Standards for Mathematical Practice to the Standards for Mathematical Content</text>
+</navLabel>
+<content src="xhtml/appendix_a_07.xhtml#app-a-01"/>
+</navPoint>
+</navPoint>
+
+
+<navPoint id="bb353" playOrder="353"><navLabel>
+<text>Appendix B Common Core State Standards: Grades K–2 Critical Content Areas and Overviews</text>
+</navLabel>
+<content src="xhtml/appendix_b_00.xhtml"/>
+<navPoint id="bb354" playOrder="354"><navLabel>
+<text>Common Core State Standards Grades K&#8211;2 Critical Content Areas and Overviews</text>
+</navLabel>
+<content src="xhtml/appendix_b_00.xhtml#appb_01"/>
+</navPoint>
+<navPoint id="bb355" playOrder="355"><navLabel>
+<text>CCSS Mathematics | Grade Kindergarten Critical Areas</text>
+</navLabel>
+<content src="xhtml/appendix_b_00.xhtml#app-b-01"/>
+</navPoint>
+<navPoint id="bb356" playOrder="356"><navLabel>
+<text>Grade K Overview</text>
+</navLabel>
+<content src="xhtml/appendix_b_01.xhtml"/>
+</navPoint>
+<navPoint id="bb357" playOrder="357"><navLabel>
+<text>CCSS Mathematics | Grade 1 Critical Areas</text>
+</navLabel>
+<content src="xhtml/appendix_b_02.xhtml"/>
+</navPoint>
+<navPoint id="bb358" playOrder="358"><navLabel>
+<text>Grade 1 Overview</text>
+</navLabel>
+<content src="xhtml/appendix_b_03.xhtml"/>
+</navPoint>
+<navPoint id="bb359" playOrder="359"><navLabel>
+<text>CCSS Mathematics | Grade 2 Critical Areas</text>
+</navLabel>
+<content src="xhtml/appendix_b_04.xhtml"/>
+</navPoint>
+<navPoint id="bb360" playOrder="360"><navLabel>
+<text>Grade 2 Overview</text>
+</navLabel>
+<content src="xhtml/appendix_b_05.xhtml"/>
+</navPoint>
+</navPoint>
+
+
+<navPoint id="bb361" playOrder="361"><navLabel>
+<text>Appendix C Mathematics Teaching Practices: NCTM Principles to Action (2014)</text>
+</navLabel>
+<content src="xhtml/appendix_c_00.xhtml"/>
+
+<navPoint id="bb362" playOrder="362"><navLabel>
+<text>Mathematics Teaching Practices NCTM Principles to Action (2014)</text>
+</navLabel>
+<content src="xhtml/appendix_c_00.xhtml#appc_1"/>
+</navPoint>
+<navPoint id="bb363" playOrder="363"><navLabel>
+<text>Establish mathematics goals to focus learning</text>
+</navLabel>
+<content src="xhtml/appendix_c_00.xhtml#appc_2"/>
+</navPoint>
+<navPoint id="bb364" playOrder="364"><navLabel>
+<text>Implement tasks that promote reasoning and problem solving.</text>
+</navLabel>
+<content src="xhtml/appendix_c_01.xhtml"/>
+</navPoint>
+<navPoint id="bb365" playOrder="365"><navLabel>
+<text>Use and connect mathematical representations.</text>
+</navLabel>
+<content src="xhtml/appendix_c_02.xhtml"/>
+</navPoint>
+<navPoint id="bb366" playOrder="366"><navLabel>
+<text>Facilitate meaningful mathematical discourse.</text>
+</navLabel>
+<content src="xhtml/appendix_c_03.xhtml"/>
+</navPoint>
+<navPoint id="bb367" playOrder="367"><navLabel>
+<text>Pose purposeful questions.</text>
+</navLabel>
+<content src="xhtml/appendix_c_04.xhtml"/>
+</navPoint>
+<navPoint id="bb368" playOrder="368"><navLabel>
+<text>Build procedural fluency from conceptual understanding.</text>
+</navLabel>
+<content src="xhtml/appendix_c_05.xhtml"/>
+</navPoint>
+<navPoint id="bb369" playOrder="369"><navLabel>
+<text>Support productive struggle in learning mathematics.</text>
+</navLabel>
+<content src="xhtml/appendix_c_06.xhtml"/>
+</navPoint>
+<navPoint id="bb370" playOrder="370"><navLabel>
+<text>Elicit and use evidence of student thinking.</text>
+</navLabel>
+<content src="xhtml/appendix_c_07.xhtml"/>
+</navPoint>
+</navPoint>
+
+<navPoint id="bb371" playOrder="371"><navLabel>
+<text>Appendix D Activities at a Glance: Volume I</text>
+</navLabel>
+<content src="xhtml/appendix_d_00.xhtml"/>
+</navPoint>
+
+<navPoint id="bb372" playOrder="372"><navLabel>
+<text>Appendix E Guide to Blackline Masters</text>
+</navLabel>
+<content src="xhtml/appendix_e_00.xhtml"/>
+<navPoint id="bb373" playOrder="373"><navLabel>
+<text>Guide to Blackline Masters</text>
+</navLabel>
+<content src="xhtml/appendix_e_00.xhtml#appe_1"/>
+</navPoint>
+<navPoint id="bb374" playOrder="374"><navLabel>
+<text>Suggestions for Use and Construction of Materials Card Stock Materials</text>
+</navLabel>
+<content src="xhtml/appendix_e_01.xhtml"/>
+</navPoint>
+<navPoint id="bb375" playOrder="375"><navLabel>
+<text>Card Stock Materials</text>
+</navLabel>
+<content src="xhtml/appendix_e_01.xhtml#appe_2"/>
+</navPoint>
+</navPoint>
+
+<navPoint id="bb376" playOrder="376"><navLabel>
+<text>References</text>
+</navLabel>
+<content src="xhtml/bibliography.xhtml"/>
+</navPoint>
+  </navMap>
+</ncx>
